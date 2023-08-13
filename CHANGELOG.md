@@ -1,5 +1,11 @@
 # route-matcher
 
+## 0.0.5
+
+### Patch Changes
+
+- 809102f: updated package.json whitelist files
+
 ## 0.0.4
 
 ### Patch Changes
