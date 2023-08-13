@@ -10,6 +10,10 @@
   "publishConfig": {
     "access": "public"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rabelgm/route-matcher"
+  },
   "scripts": {
     "build": "tsup lib/index.ts --format cjs,esm --dts",
     "release": "pnpm run build && changeset publish",
