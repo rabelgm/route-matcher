@@ -1,6 +1,6 @@
 {
   "name": "@rabelgm/route-matcher",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "license": "MIT",
   "author": "",
   "description": "A simple route matcher to register routes and handlers",

@@ -1,5 +1,11 @@
 # route-matcher
 
+## 0.0.4
+
+### Patch Changes
+
+- e209e74: improve test and add test command to CI
+
 ## 0.0.3
 
 ### Patch Changes
